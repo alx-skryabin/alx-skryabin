@@ -1,26 +1,23 @@
 ### Hi there 👋, my name is Aleksandr!
 #### I am frontend developer
-![I am frontend developer](https://sun9-17.userapi.com/impf/c852032/v852032075/19d04b/35CIpiVXMyU.jpg?size=1842x2160&quality=96&sign=da2c1f58d688bc0744f0a917189fdc84&type=album)
+![I am frontend developer](https://sun9-79.userapi.com/impf/c841028/v841028141/11998/aw1KS150pdo.jpg?size=2560x1585&quality=96&sign=ab88cd05a82ca22d7c8e94d70d1c6eeb&type=album)
 
-I work with javascript and its frameworks
+I work with javascript and frameworks
 
-Skills: REACT / JS / Express / Mongo / Socket / Node / HTML / CSS / 
+Skills: JavaScript | REACT | GIT | Webpack | NPM | Express | Mongo | Socket | Node | Firebase | HTML | CSS 
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Node JS, React 
+- 🤔 I’m looking for help with Node JS 
+- 💬 Ask me about JavaScript 
+- 📫 How to reach me: alx.skryabin@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alx-skryabin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alx.skryabin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](iziart.ru)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alx-skryabin)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alx-skryabin)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alx-skryabin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alx-skryabin&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alx-skryabin)  
-
-![GitHub metrics](https://metrics.lecoq.io/alx-skryabin)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alx-skryabin)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alx-skryabin&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/alx-skryabin)  
