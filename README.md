@@ -4,11 +4,11 @@
 
 I work with javascript and frameworks
 
-Skills: JavaScript | REACT | GIT | Webpack | NPM | Express | Mongo | Socket | Node | Firebase | HTML | CSS 
+Skills: JavaScript | TypeScript | REACT | NodeJS | Express | GIT | Webpack | NPM | Mongo | Socket | Firebase | HTML | CSS 
 
-- 🌱 I’m currently learning Node JS, React 
+- 🌱 I’m currently learning NodeJS, React, TS 
 - 🤔 I’m looking for help with Node JS 
-- 💬 Ask me about JavaScript 
+- 💬 Ask me about JavaScript or React
 - 📫 How to reach me: alx.skryabin@gmail.com 
 
 
