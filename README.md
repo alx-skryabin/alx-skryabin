@@ -1,18 +1,28 @@
-### Hi there 👋, my name is Aleksandr!
-#### I am frontend developer
-![I am frontend developer](https://sun9-79.userapi.com/impf/c841028/v841028141/11998/aw1KS150pdo.jpg?size=2560x1585&quality=96&sign=ab88cd05a82ca22d7c8e94d70d1c6eeb&type=album)
+### Hi 👋! my name is Aleksandr
+#### I am developer
+![I am developer](https://sun9-79.userapi.com/impf/c841028/v841028141/11998/aw1KS150pdo.jpg?size=2560x1585&quality=96&sign=ab88cd05a82ca22d7c8e94d70d1c6eeb&type=album)
 
-I work with javascript and frameworks
+#### I work with javascript and frameworks, etc. 🔥
 
-Skills: JavaScript | TypeScript | REACT | NodeJS | Express | GIT | Webpack | NPM | Mongo | Socket | Firebase | HTML | CSS 
+Skills: \
+Front: `JavaScript` | `TypeScript` | `REACT` | `HTML` | `CSS` | `SASS` \
+Back: `NodeJS` | `Express` | `PostgreSQL` | `Mongo` | `MySQL` | `Swagger` \
+CI/CD: `GitHub` | `Vercel` | `Heroku` | `Firebase` \
+Stack: `GIT` | `Webpack` | `JWT` | `NPM` | `Socket` | `WebRTC` | `Conva` 
 
-- 🌱 I’m currently learning NodeJS, React, TS 
-- 🤔 I’m looking for help with Node JS 
-- 💬 Ask me about JavaScript or React
-- 📫 How to reach me: alx.skryabin@gmail.com 
+<br>
 
+- 🤔 I’m currently working NodeJS, React, TS, database (`FullStack App`)
+- 👀 I’m looking for help with the `architecture` of modern applications 
+- 🍻 Ask me about JavaScript (TS) or React
+- 🤠 How to reach me: `alx.skryabin@gmail.com`
+- 🤙 [Here](https://iziart.ru/) I write a little and post projects 
+
+<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alx-skryabin)  
+
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alx-skryabin)](https://github.com/ryo-ma/github-profile-trophy)
 
